@@ -1,2 +1,2 @@
-# LSTM-text-summarization
-abstractive summarization using lstm 
+# datasets
+mainly on school projects
